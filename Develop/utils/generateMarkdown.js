@@ -7,13 +7,17 @@ function generateMarkdown(data) {
   ![License](https://img.shields.io/badge/license-${data.license}-00beef)
 
   ## Table of Contents
+  [Description](#description)
 
-    [Description](#description)
-    [Installation](#installation)
-    [Usage](#usage)
-    [Contribution](#contribution)
-    [Testing](#test)
-    [License](#license)
+  [Installation](#installation)
+
+  [Usage](#usage)
+
+  [Contribution](#contribution)
+
+  [Testing](#test)
+  
+  [License](#license)
 
   ### Description
 
