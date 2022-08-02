@@ -1,4 +1,4 @@
-# README generator
+# Sample video
 
   ## License 
   ![License](https://img.shields.io/badge/license-Apache-00beef)
@@ -16,25 +16,21 @@
   
   [License](#license)
 
-  ### Demonstration
-
-  To watch the video [click here](https://drive.google.com/file/d/1wp8KegM_9BXT2xdSiUc6e9-mj-pDgsUy/view)
-
   ### Description
 
-  The purpose of this project was to get familiar with node.js. The user will be prompted with questions and those will be used to generator a full README
+  To demonstrate the functionality of the working product
 
   ### Installation
 
-  Go to my Github and copy the codes SSH or HTTPS key
+  Clone the code
 
   ### Usage
 
-  To generate a README based on the users answers
+  To create a README file
 
   ### Contribution
 
-  Pull the code from Github and then push it to the main branch
+  Pay me
 
   ### Testing
 
