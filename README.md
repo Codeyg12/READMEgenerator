@@ -1,4 +1,4 @@
-# README generator 
+# README generator
 
   ## License 
   ![License](https://img.shields.io/badge/license-Apache-00beef)
@@ -16,9 +16,9 @@
   
   [License](#license)
 
-  ### Demostration
-  
-  To watch the video [click here](https://app.castify.com/watch/28bebb26-dbda-4971-b5a9-7fd6133ac39a)
+  ### Demonstration
+
+  To watch the video 
 
   ### Description
 
@@ -30,11 +30,11 @@
 
   ### Usage
 
-  undefined
+  To generate a README based on the users answers
 
   ### Contribution
 
-  Follow the rules and push it forward to the main branch
+  Pull the code from Github and then push it to the main branch
 
   ### Testing
 

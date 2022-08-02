@@ -1,5 +1,4 @@
-
-// TODO: Create a function to generate markdown for README
+// This function will be called to write the README in this format so template literal is used
 function generateMarkdown(data) {
   return `# ${data.title}
 
