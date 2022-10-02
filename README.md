@@ -12,7 +12,7 @@
 
   [Contribution](#contribution)
 
-  [Testing](#test)
+  [Testing](#testing)
   
   [License](#license)
 
