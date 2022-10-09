@@ -1,6 +1,12 @@
  <a name="readme-top"></a>
 
-  # NoSQL-social-network
+  # PWA
+
+  ### Description
+  
+  This is a text editor that runs in the browser. It is a single-page app that meets PWA standards. It is able to be downloaded and functions offline. We were given starter code for this project.
+
+  <p align="right"><a href="#readme-top">(Return to top)</a></p>
 
   ## License 
   ![License](https://img.shields.io/badge/license-MIT-00beef)
@@ -22,15 +28,9 @@
   
   [License](#license)
 
-  ### Description
-  
-  A Social Network API using Express and MongoDB and Mongoose. Users should be able to share thoughts, react to friends thoughts, and create a friend list. 
-
-  <p align="right"><a href="#readme-top">(Return to top)</a></p>
-
   ### Demo
 
-  
+  Click here
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
   
@@ -43,7 +43,7 @@
 
   ### Usage
 
-  A social network API that could at a later time be used for a full functioning website.
+  A downloadable text editor.
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 
