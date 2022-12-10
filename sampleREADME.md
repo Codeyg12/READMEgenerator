@@ -1,10 +1,10 @@
  <a name="readme-top"></a>
 
-  # PWA
+  # Redux Store
 
   ### Description
   
-  This is a text editor that runs in the browser. It is a single-page app that meets PWA standards. It is able to be downloaded and functions offline. We were given starter code for this project.
+  I started with all the code but it was using Context API and I refactored it to use Redux. This project was smaller than most but I was able to explore Redux and then use the new configureStore.
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 
@@ -43,7 +43,7 @@
 
   ### Usage
 
-  A downloadable text editor.
+  e-commerce site refactored to use Redux.
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 
@@ -61,7 +61,7 @@
 
   ### Testing
 
-  npm test
+  No testing used for this project
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 

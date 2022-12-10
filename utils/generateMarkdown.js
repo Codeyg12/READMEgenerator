@@ -2,16 +2,13 @@
 function generateMarkdown(data) {
   return ` <a name="readme-top"></a>
 
-  # ${data.title}
+  # ${data.title} [<img align="right" src="https://img.shields.io/badge/license-${data.license}-00beef"></img>](LICENSE)
 
   ### Description
   
   ${data.description}
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
-
-  ## License 
-  ![License](https://img.shields.io/badge/license-${data.license}-00beef)
 
   ## Table of Contents
   [Description](#description)
@@ -27,8 +24,6 @@ function generateMarkdown(data) {
   [Contribution](#contribution)
 
   [Testing](#test)
-  
-  [License](#license)
 
   ### Demo
 
