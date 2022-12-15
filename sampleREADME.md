@@ -1,15 +1,12 @@
  <a name="readme-top"></a>
 
-  # Redux Store
+  # README generator [<img align="right" src="https://img.shields.io/badge/license-MIT-00beef"></img>](LICENSE)
 
   ### Description
   
-  I started with all the code but it was using Context API and I refactored it to use Redux. This project was smaller than most but I was able to explore Redux and then use the new configureStore.
+  A series of prompts to generate a new README using a previous created template. This was made to better understand node and to make making READMEs more efficient.
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
-
-  ## License 
-  ![License](https://img.shields.io/badge/license-MIT-00beef)
 
   ## Table of Contents
   [Description](#description)
@@ -25,8 +22,6 @@
   [Contribution](#contribution)
 
   [Testing](#test)
-  
-  [License](#license)
 
   ### Demo
 
@@ -43,7 +38,7 @@
 
   ### Usage
 
-  e-commerce site refactored to use Redux.
+  1. Follow installation instructions above 2. Open your terminal
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 
@@ -61,7 +56,7 @@
 
   ### Testing
 
-  No testing used for this project
+  npm test
 
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 

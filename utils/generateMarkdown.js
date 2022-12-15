@@ -63,7 +63,7 @@ function generateMarkdown(data) {
 
   #### Links
 
-  To see more of my work check my [Github](https://github.com/${data.github}). For futher questions you can reach me at ${data.email}.
+  To see more of my work check my [Github](https://github.com/${data.github}). For further questions, you can reach me at ${data.email}.
   
   <p align="right"><a href="#readme-top">(Return to top)</a></p>
 `;

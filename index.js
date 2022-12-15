@@ -19,7 +19,7 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'What are the installation instructions of your project?',
-        default: 'To install follow these steps. 1. Clone the repo using either HTTPS `` or SSH key ``\n 2. install NPM packages `npm i`'
+        default: '1. Clone the repo using either HTTPS `` or SSH key ``\n 2. install NPM packages `npm i`'
     },
     {
         type: 'input',
